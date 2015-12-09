@@ -8,7 +8,7 @@ If you are interested in what a 3D completed model looks like, please have a loo
 
 ### This project is on behalf of:
 
-[![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/master.TheMaryRosePantone-e1432046661580.jpg)](http://www.maryrose.org) 
+[![The Mary Rose logo](http://micropasts.org/wp-content/uploads/2015/05/MaryRose-logo1-e1432132777657.jpg)](http://www.maryrose.org) 
 
 ### Find the code on GitHub
 
