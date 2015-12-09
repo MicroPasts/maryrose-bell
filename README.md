@@ -1,4 +1,8 @@
 # maryrose-bell
+
+[![DOI](https://zenodo.org/badge/19055/MicroPasts/maryrose-bell.svg)](https://zenodo.org/badge/latestdoi/19055/MicroPasts/maryrose-bell)
+
+
 Photomasking of Mary Rose bell
 =================================================
 
